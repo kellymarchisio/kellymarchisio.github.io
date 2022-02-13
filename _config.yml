@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: github-pages-minimal
 title: Kelly Marchisio
 logo: thumbnail.png
 description: PhD Student at JHU CLSP
@@ -8,10 +8,6 @@ social-network-links:
   twitter: cheeesio
   linkedin: kellymarchisio
   google-scholar: BE9tLKwAAAAJ
-
-sidebar:
-  - title: "Publications"
-  url: https://scholar.google.com/citations?user=BE9tLKwAAAAJ
 
 author:
   # name             : "Your Sidebar Name"
