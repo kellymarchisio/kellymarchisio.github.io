@@ -8,23 +8,3 @@ social-network-links:
   twitter: cheeesio
   linkedin: kellymarchisio
   google-scholar: BE9tLKwAAAAJ
-
-author:
-  # name             : "Your Sidebar Name"
-  avatar           : "me.jpg"
-  googlescholar    : "https://scholar.google.com/citations?user=BE9tLKwAAAAJ"
-  github: "kellymarchisio"
-#  twitter: "cheeesio"
-#  linkedin: "kellymarchisio"
-#  links:
-#    - label: "Publications"
-#      url: https://scholar.google.com/citations?user=BE9tLKwAAAAJ
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/cheeesio"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/kellymarchisio"
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://linkedin.com/kellymarchisio"
