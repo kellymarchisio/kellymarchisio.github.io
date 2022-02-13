@@ -7,3 +7,12 @@ social-network-links:
   twitter: cheeesio
   linkedin: kellymarchisio
   google-scholar: BE9tLKwAAAAJ
+
+
+author:
+  # name             : "Your Sidebar Name"
+  avatar           : "me.jpg"
+  googlescholar    : "https://scholar.google.com/citations?user=BE9tLKwAAAAJ"
+  github: "kellymarchisio"
+  twitter: "cheeesio"
+  linkedin: "kellymarchisio"
