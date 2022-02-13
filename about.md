@@ -1,1 +1,3 @@
-My about page!
+---
+title: About me
+---
