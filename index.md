@@ -1,5 +1,5 @@
 ---
-thumbnail-img: /imgs/me.jpg
+thumbnail-img: me.jpg
 ---
 ## Coming Soon!
 
