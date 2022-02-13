@@ -17,4 +17,10 @@ Summer 2022: I will be interning at FAIR in London, UK with Mikel Artetxe.
 
 ---
 
-In my non-CS life, I'm a classically-trained soprano and was a Choral Scholar at Christ's College, Cambridge.  I've had lots of fun singing acappella through the years -- with Google MTV's Googapella (2014-2017), the Common Chords at the Harvard Graduate School of Education (see what we did there??), and as Musical Director of Sweet Ophelia, an all-women's acapella group at Franklin & Marshall College.  Apart from singing, I enjoy vegetable gardening -- in Summer 2021, I somehow fit over 150 plants in my little container garden in Baltimore!
+#### More about me
+
+In my non-CS life, I'm a classically-trained soprano and was a Choral Scholar at Christ's College, Cambridge.  I've had lots of fun singing acappella through the years -- with Google MTV's Googapella (2014-2017), the Common Chords at the Harvard Graduate School of Education (see what we did there??), and as Musical Director of Sweet Ophelia, an all-women's acapella group at Franklin & Marshall College.  
+
+Apart from singing, I enjoy vegetable gardening -- in Summer 2021, I somehow fit over 150 plants in my little container garden in Baltimore.  
+
+If "trying new foods" can be considered a "hobby", then it's certainly one of mine: there's little that delights me more than new culinary delights that I've never tried before!
