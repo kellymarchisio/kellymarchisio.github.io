@@ -9,6 +9,9 @@ social-network-links:
   linkedin: kellymarchisio
   google-scholar: BE9tLKwAAAAJ
 
+sidebar:
+  - title: "Publications"
+  url: https://scholar.google.com/citations?user=BE9tLKwAAAAJ
 
 author:
   # name             : "Your Sidebar Name"
