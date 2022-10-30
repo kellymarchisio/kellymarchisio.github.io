@@ -15,7 +15,7 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 December 2022: Two papers to-appear at EMNLP in Abu Dhabi:
 
-&nbsp;&nbsp;&nbsp;**[IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces](https://arxiv.org/abs/2210.05098)**<br>
+&nbsp;&nbsp;&nbsp;**[IsoVec: Controlling the Relative Isomorphism of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Word Embedding Spaces](https://arxiv.org/abs/2210.05098)**<br>
 &nbsp;&nbsp;&nbsp;Kelly Marchisio, Neha Verma, Kevin Duh, Philipp Koehn
 
 
