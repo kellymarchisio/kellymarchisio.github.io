@@ -11,16 +11,16 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 ---
 
 #### News
-***I'm on the job market for industry research scientist positions.  Please email me with opportunities!*** (_address is in my publications._)
+***I'm on the job market for industry research scientist positions.  <br>Please email me with opportunities!*** (_address is in my publications._)
 
 December 2022: Two papers to-appear at EMNLP in Abu Dhabi:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces](https://arxiv.org/abs/2210.05098)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kelly Marchisio, Neha Verma, Kevin Duh, Philipp Koehn
+&nbsp;&nbsp;&nbsp;**[IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces](https://arxiv.org/abs/2210.05098)**<br>
+&nbsp;&nbsp;&nbsp;Kelly Marchisio, Neha Verma, Kevin Duh, Philipp Koehn
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport](https://arxiv.org/abs/2210.14378)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kelly Marchisio, Ali Saad-Eldin, Kevin Duh, Carey Priebe, Philipp Koehn
+&nbsp;&nbsp;&nbsp;**[Bilingual Lexicon Induction for Low-Resource Languages using <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Matching via Optimal Transport](https://arxiv.org/abs/2210.14378)**<br>
+&nbsp;&nbsp;&nbsp;Kelly Marchisio, Ali Saad-Eldin, Kevin Duh, Carey Priebe, Philipp Koehn
 
 October 2022:  I am honored to have been named an Amazon Fellow! https://twitter.com/AmazonScience/status/1577765575207460865
 
