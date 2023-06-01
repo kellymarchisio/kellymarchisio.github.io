@@ -11,7 +11,7 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 ---
 
 #### News
-***I'm on the job market for industry research scientist positions.  <br>Please email me with opportunities!*** (_address is in my publications._)
+7 June 2023:  My PhD defense will be held at Johns Hopkins University at 2pm ET (UTC-4:00).  Please email me if you'd like a Zoom link!
 
 Feb 2023:  Talks at George Mason University (8 Feb) and the Artificial Intelligence Society at Johns Hopkins (22 Feb)
 
