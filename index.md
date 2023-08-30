@@ -16,6 +16,10 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 #### News
 
+July 2023: Presented at ACL 2023 in Toronto:
+
+&nbsp;&nbsp;&nbsp;**[Mini-Model Adaptation: Efficiently Extending Pretrained Models <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to New Languages via Aligned Shallow Training](https://aclanthology.org/2023.findings-acl.338/)** (Findings)<br>&nbsp;&nbsp;&nbsp; Kelly Marchisio, Patrick Lewis, Yihong Chen, Mikel Artetxe
+
 12 June 2023: I had my first day as Member of Technical Staff at Cohere!
 
 7 June 2023:  My PhD defense will be held at Johns Hopkins University at 2pm ET (UTC-4:00).  Please email me if you'd like a Zoom link!  UPDATE: I successfully defended! Title: "Multilinguality from Static Embedding Spaces: Algorithmic, Geometric, and Data Considerations"
