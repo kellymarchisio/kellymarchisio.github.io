@@ -18,7 +18,7 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 12 June 2023: I had my first day as Member of Technical Staff at Cohere!
 
-7 June 2023:  My PhD defense will be held at Johns Hopkins University at 2pm ET (UTC-4:00).  Please email me if you'd like a Zoom link!  UPDATE: I successfully defended! Title: "Multilinguality from Embedding Spaces: Algorithmic, Geometric, and Data Considerations"
+7 June 2023:  My PhD defense will be held at Johns Hopkins University at 2pm ET (UTC-4:00).  Please email me if you'd like a Zoom link!  UPDATE: I successfully defended! Title: "Multilinguality from Static Embedding Spaces: Algorithmic, Geometric, and Data Considerations"
 
 Feb 2023:  Talks at George Mason University (8 Feb) and the Artificial Intelligence Society at Johns Hopkins (22 Feb)
 
