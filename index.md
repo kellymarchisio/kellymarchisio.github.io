@@ -6,15 +6,17 @@ author_profile: true
 
 Welcome!  
 
-I am a Member of Technical Staff at Cohere (https://cohere.ai/) specializing in multilingual natural language processing.
+I am a Member of Technical Staff at Cohere (https://cohere.ai/) specializing in multilingual natural language processing.  I started the multilingual NLP group at Cohere in June 2023.  Our work resulted in Cohere’s first public launch of a multilingual model in March 2024 (Command-R).
 
-Previously, I completed my PhD in Computer Science at the Center for Language and Speech Processing at Johns Hopkins University, where I was advised by Dr. Philipp Koehn.  My research is focused on unsupervised and semi-supervised machine translation, bilingual lexicon induction, multilingual representation learning, and efficient natural language processing.  During my time at JHU, I interned with Meta AI London (FAIR Labs, Summer 2022, Advisor: Mikel Artetxe) and Google Translate (Summer 2020).  
+Previously, I completed my PhD in Computer Science at the Center for Language and Speech Processing at Johns Hopkins University, where I was advised by Dr. Philipp Koehn.  My research focuses on unsupervised and semi-supervised machine translation, bilingual lexicon induction, multilingual representation learning, and efficient natural language processing.  During my time at JHU, I interned with Meta AI London (FAIR Labs, Summer 2022, Advisor: Mikel Artetxe) and Google Translate (Summer 2020).  
 
 Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's College, University of Cambridge.  My thesis advisor was Helen Yannakoudakis.  I was employed at Google, Inc. in Mountain View, CA from 2013-2017 where I was a Web Solutions Engineer (2015-2017) and Support Specialist for gTech Ads, where I led automation efforts for North America (2013-2015). Previously, I completed an Ed.M. in Mind, Brain, and Education at Harvard University, and a B.A. in Psychology/Sociology and French (minor) at Franklin & Marshall College in Lancaster, PA.  
 
 ---
 
 #### News
+
+March 2024: Our work since June contributed to the launch of [Command-R]([url](https://docs.cohere.com/docs/command-r)), Cohere's first public multilingual model!
 
 July 2023: Presented at ACL 2023 in Toronto:
 
