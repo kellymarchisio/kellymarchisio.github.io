@@ -6,7 +6,7 @@ author_profile: true
 
 Welcome!  
 
-I am a Member of Technical Staff at Cohere (https://cohere.ai/) specializing in multilingual natural language processing.  I started the multilingual NLP group at Cohere in June 2023.  Our work resulted in Cohere’s first public launch of a multilingual model in March 2024 (Command-R).
+I am a Member of Technical Staff at Cohere (https://cohere.ai/) specializing in multilingual natural language processing.  I started the multilingual NLP group at Cohere in June 2023.  Our work resulted in Cohere’s first public launch of a multilingual model in March 2024 ([Command-R](https://docs.cohere.com/docs/command-r)).
 
 Previously, I completed my PhD in Computer Science at the Center for Language and Speech Processing at Johns Hopkins University, where I was advised by Dr. Philipp Koehn.  My research focuses on unsupervised and semi-supervised machine translation, bilingual lexicon induction, multilingual representation learning, and efficient natural language processing.  During my time at JHU, I interned with Meta AI London (FAIR Labs, Summer 2022, Advisor: Mikel Artetxe) and Google Translate (Summer 2020).  
 
