@@ -16,7 +16,7 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 #### News
 
-March 2024: Our work since June contributed to the launch of [Command-R]([url](https://docs.cohere.com/docs/command-r)), Cohere's first public multilingual model!
+March 2024: Our work since June contributed to the launch of [Command-R](https://docs.cohere.com/docs/command-r), Cohere's first public multilingual model!
 
 July 2023: Presented at ACL 2023 in Toronto:
 
