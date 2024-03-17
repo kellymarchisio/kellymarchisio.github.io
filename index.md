@@ -18,6 +18,11 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 March 2024: Our work since June contributed to the launch of [Command-R](https://docs.cohere.com/docs/command-r), Cohere's first public multilingual model!
 
+December 2023: Presented at NeurIPS 2023 in New Orleans:
+
+&nbsp;&nbsp;&nbsp;**[Improving Language Plasticity via Pretraining with Active Forgetting](https://proceedings.neurips.cc/paper_files/paper/2023/file/6450ea28ebbc8437bc38775157818172-Paper-Conference.pdf)**
+<br>&nbsp;&nbsp;&nbsp; Yihong Chen, Kelly Marchisio, et al. 2023
+
 July 2023: Presented at ACL 2023 in Toronto:
 
 &nbsp;&nbsp;&nbsp;**[Mini-Model Adaptation: Efficiently Extending Pretrained Models <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to New Languages via Aligned Shallow Training](https://aclanthology.org/2023.findings-acl.338/)** (Findings)<br>&nbsp;&nbsp;&nbsp; Kelly Marchisio, Patrick Lewis, Yihong Chen, Mikel Artetxe
