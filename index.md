@@ -16,6 +16,20 @@ Prior to JHU, I completed an MPhil in Advanced Computer Science at Christ's Coll
 
 #### News
 
+Summer 2024:  It's been a busy summer at Cohere!  (1) I am co-supervising the internships of [Nate Robinson](https://n8rrobinson.wixsite.com/mysite) and [Piotr Nawrot](https://piotrnawrot.github.io/), (2) We have released four pre-prints since May:
+
+&nbsp;&nbsp;&nbsp;**[How Does Quantization Affect Multilingual LLMs?](https://arxiv.org/abs/2407.03211)**
+<br>&nbsp;&nbsp;&nbsp;Kelly Marchisio, Saurabh Dash, Hongyu Chen, Dennis Aumiller, Ahmet Üstün, Sara Hooker, Sebastian Ruder
+
+&nbsp;&nbsp;&nbsp;**[Understanding and Mitigating Language Confusion in LLMs](https://arxiv.org/abs/2406.20052)**
+<br>&nbsp;&nbsp;&nbsp;Kelly Marchisio*, Wei-Yin Ko*, Alexandre Bérard, Théo Dehaze, Sebastian Ruder*
+
+&nbsp;&nbsp;&nbsp;**[RLHF Can Speak Many Languages: Unlocking Multilingual Preference Optimization for LLMs](https://arxiv.org/abs/2407.02552)**
+<br>&nbsp;&nbsp;&nbsp;John Dang, Arash Ahmadian, Kelly Marchisio, Julia Kreutzer, Ahmet Üstün, Sara Hooker
+
+&nbsp;&nbsp;&nbsp;**[Aya 23: Open Weight Releases to Further Multilingual Progress](https://arxiv.org/abs/2405.15032)**
+<br>&nbsp;&nbsp;&nbsp;Cohere & Cohere For AI
+
 March 2024: Our work since June contributed to the launch of [Command-R](https://docs.cohere.com/docs/command-r), Cohere's first public multilingual model!
 
 December 2023: Presented at NeurIPS 2023 in New Orleans:
