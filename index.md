@@ -24,7 +24,7 @@ Summer 2024:  It's been a busy summer at Cohere!  (1) I am co-supervising the in
 &nbsp;&nbsp;&nbsp;**[Understanding and Mitigating Language Confusion in LLMs](https://arxiv.org/abs/2406.20052)**
 <br>&nbsp;&nbsp;&nbsp;Kelly Marchisio*, Wei-Yin Ko*, Alexandre Bérard, Théo Dehaze, Sebastian Ruder*
 
-&nbsp;&nbsp;&nbsp;**[RLHF Can Speak Many Languages: Unlocking Multilingual Preference Optimization for LLMs](https://arxiv.org/abs/2407.02552)**
+&nbsp;&nbsp;&nbsp;**[RLHF Can Speak Many Languages: Unlocking Multilingual Preference <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization for LLMs](https://arxiv.org/abs/2407.02552)**
 <br>&nbsp;&nbsp;&nbsp;John Dang, Arash Ahmadian, Kelly Marchisio, Julia Kreutzer, Ahmet Üstün, Sara Hooker
 
 &nbsp;&nbsp;&nbsp;**[Aya 23: Open Weight Releases to Further Multilingual Progress](https://arxiv.org/abs/2405.15032)**
